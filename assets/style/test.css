@@ -1,0 +1,36 @@
+/*- reset -*/
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+:root {
+  /*- 1rem = 10px -*/
+  font-size: 62.5%;
+  --primary-brand-green: hsl(170, 100%, 26%);
+  --primary-brand-green-light: hsl(148, 23%, 89%);
+  --secundary-gray-headline: hsl(210, 11%, 15%);
+  --secundary-gray-paragraph: hsl(210, 9%, 31%);
+  --secundary-color-white: hsl(0, 0%, 100%);
+}
+/*-  -*/
+body {
+  font-family: "DM Sans";
+  font-size: 1.6rem;
+  text-align: center;
+  
+}
+
+/*- Logo / Hamburger -*/
+#navigation{
+  border: 1px solid red;
+}
+
+/*- Text's top -*/
+
+/*- Button call -*/
+
+/*- Text Middle -*/
+
+
